@@ -1,5 +1,5 @@
 
-#here first all the marks are taken as an input 
+
 
 num1 = int(input("Enter the marks of 1 sub : "))
 num2 = int(input("Enter the marks of 2 sub : "))
