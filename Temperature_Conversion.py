@@ -10,6 +10,8 @@ def fahrenheit_to_celsius(fahrenheit):
     celsius = (fahrenheit - 32) * 5/9
     return celsius
 
+# output details 
+
 
 print("1. Celsius to Fahrenheit")
 print("2. Fahrenheit to Celsius")
