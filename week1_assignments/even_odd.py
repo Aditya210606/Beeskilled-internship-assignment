@@ -2,7 +2,7 @@ num = int(input("Enter a number: "))
 
 
 if num % 2 == 0:
-    print("The number is Even")
+    print("The num is Even")
 else:
     print("The number is Odd")
 
