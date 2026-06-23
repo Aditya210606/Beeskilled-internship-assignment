@@ -3,7 +3,7 @@
 
 num1 = int(input("Enter the marks of 1 subject  : "))
 num2 = int(input("Enter the marks of 2 subject  : "))
-num3 = int(input("Enter the marks of 3 sub : "))
+num3 = int(input("Enter the marks of 3 subject  : "))
 num4 = int(input("Enter the marks of 4 sub : "))
 num5 = int(input("Enter the marks of 5 sub : "))
 
