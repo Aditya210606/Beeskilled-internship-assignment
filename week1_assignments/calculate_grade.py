@@ -16,7 +16,7 @@ if avg >= 90:
     print("Your grade is O+")
 
 elif avg >= 80:
-    print("Your grade is A")
+    print("Your grade is A+")
 
 elif avg >= 70:
     print("Your grade is B")
