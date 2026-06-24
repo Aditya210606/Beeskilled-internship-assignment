@@ -13,7 +13,7 @@ print("Average marks : ",avg)
 
 # condition statements for obtaining the grade according to marks 
 if avg >= 90:
-    print("Your grade is O")
+    print("Your grade is O+")
 
 elif avg >= 80:
     print("Your grade is A")
