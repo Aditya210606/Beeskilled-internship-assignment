@@ -21,3 +21,5 @@ else:
         print("The number is Prime")
     else:
         print("The number is not Prime")
+
+
