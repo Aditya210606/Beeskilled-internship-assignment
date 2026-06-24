@@ -1,11 +1,11 @@
 
 
 
-num1 = int(input("Enter the marks of 1 subject  : "))
-num2 = int(input("Enter the marks of 2 subject  : "))
-num3 = int(input("Enter the marks of 3 subject  : "))
-num4 = int(input("Enter the marks of 4 subject  : "))
-num5 = int(input("Enter the marks of 5 subject  : "))
+num1 = int(input("Enter the marks of 1 sub : "))
+num2 = int(input("Enter the marks of 2 sub : "))
+num3 = int(input("Enter the marks of 3 sub : "))
+num4 = int(input("Enter the marks of 4 sub : "))
+num5 = int(input("Enter the marks of 5 sub : "))
 
 avg = round((num1 + num2 + num3 + num4 + num5) / 5, 2)  #logical part to calculate avg
 
